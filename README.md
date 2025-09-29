@@ -1,6 +1,6 @@
 # Python Basics: File Handling - Complete Tutorial
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1235357/Python-Basics-File-Handling-Lecture/blob/main/Python_File_Handling_Lecture.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1235357/Python-Basics-File-Handling-Lecture/blob/main/python_file_handling_lecture.ipynb)
 
 
 **Institution**: Kean University  
@@ -26,7 +26,7 @@ This repository contains a comprehensive Jupyter notebook tutorial on Python fil
 
 ## 🚀 Quick Start
 
-### Option 1: Google Colab (Recommended for Learning) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1235357/Python-Basics-File-Handling-Lecture/blob/main/Python_File_Handling_Lecture.ipynb)
+### Option 1: Google Colab (Recommended for Learning) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1235357/Python-Basics-File-Handling-Lecture/blob/main/python_file_handling_lecture.ipynb)
 
 Click the "Open in Colab" button above to run the notebook directly in your browser. No setup required!
 
