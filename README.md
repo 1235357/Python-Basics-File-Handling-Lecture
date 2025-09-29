@@ -8,6 +8,15 @@
 **Duration**: 35-45 minutes  
 **Level**: Beginner to Intermediate
 
+# 📺 Lecture Video
+
+[![MATH 4710 W02: Python Basics - File Handling](https://img.youtube.com/vi/9OPgVnxsWMY/maxresdefault.jpg)](https://www.youtube.com/watch?v=9OPgVnxsWMY)
+
+Click the image above to watch the full lecture on YouTube: [https://www.youtube.com/watch?v=9OPgVnxsWMY](https://www.youtube.com/watch?v=9OPgVnxsWMY).
+
+
+
+
 ---
 
 ## 📚 Overview
